@@ -68,6 +68,5 @@ httpd.serve_forever()
 
 ### Client Output
 ![image](https://github.com/SaravananPV3010/webserver/assets/139754526/da4ce5e8-5a12-4037-b232-ac522def24e9)
-
 ## RESULT:
 The program is executed succesfully.
